@@ -46,6 +46,10 @@ Control your external monitor brightness, contrast or volume directly from a men
 *Bonus: Using keyboard keys displays the native osd*
 
 <img src="./.github/osd.jpg" width="500" align="center" alt="osd screenshot"/>
+
+<br/>
+
+*Press and hold `Shift` + `Option` with Volume/Brightness `Up` or `Down` keys for more granular control*
 </div>
 
 ## Download
